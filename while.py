@@ -5,4 +5,4 @@ print("Programm has started")
 while True:
     t = time.strftime('%M')
     time.sleep(30)
-    print(f'das ist ein Test Plugin {t}')
+    print(f'Talla sagt nein {t}')
